@@ -1,0 +1,258 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Mukta|Roboto+Condensed');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Condensed';
+}
+
+header{
+    
+    
+    min-height: 100px;
+    overflow: hidden;
+    background-color: #47484B;
+    border-bottom: 3px solid #E88501;
+}
+
+.wrapper{
+    
+min-height: 100px;
+    width: 90%;
+    margin:0 auto;
+   
+    
+}
+
+header h1{
+    margin-top: 15px;
+    color: beige;
+    float: left;
+    font-family: 'Mukta', sans-serif;
+    font-size: 3em;
+}
+
+nav{
+    float: right;
+}
+
+header a{
+    
+    color: beige;
+    
+  
+    
+}
+header ul
+{
+    margin-top: 20px;
+    padding: 20px;
+}
+header li
+{
+    
+    padding: 20px;
+    display: inline;
+    
+}
+
+
+header li a{
+    
+    color: azure;
+    
+}
+
+
+
+
+.body{
+    
+    min-height: 300px;
+    background-color: aquamarine;
+    overflow: hidden;
+    background: url(ganja2.png);
+    background-size: cover;
+	background-repeat: no-repeat;
+    background-position:50% 50%;
+        
+        background-attachment: fixed;
+	
+}
+
+.wrapper2{
+    min-height: 300px;
+    width: 95%;
+    
+    margin: 0 auto;
+    
+   
+    
+}
+.body_content{
+    
+    text-align: center;
+    margin-top: 220px;
+    margin-bottom: 50px;
+}
+.wrapper2 h1{
+    
+    font-size: 50px;
+    margin: 0 auto;
+    color: floralwhite;
+    padding-bottom: 40px;
+;
+}
+.body_content span{
+    width: 60%;
+    height: 2px;
+    background: white;
+    margin: 0 auto;
+    display: block;
+}
+.wrapper2 p
+{
+    font-size: 20px;
+    margin: 0 auto;
+    color:  floralwhite;
+    padding-bottom: 40px;
+    
+}
+
+.wrapper2 button
+{
+    margin-top: 20px;
+
+ background-color: black;
+    border: 1px solid #5D5F60;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: beige;
+
+}
+
+.adv{
+    
+    min-height: 300px;
+    background-color: #F0F0F0;
+
+    
+}
+
+.wrapper3{
+    
+    min-height: 300px;
+    width: 85%;
+    margin: 0 auto;
+    
+}
+
+.img_wrapper1
+{
+    min-height: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 30%;
+    border: 3px solid #47484B;
+    box-sizing: border-box;
+    float: left;
+    margin-left: 2.5%;
+    background: url(jy3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0% 30%;
+    
+    
+}
+
+.img_wrapper2
+{
+    min-height: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 30%;
+    border: 3px solid #47484B;
+    box-sizing: border-box;
+    float: left;
+    margin-left: 2.5%;
+    background: url(jy2.png);
+    background-size: cover;
+    background-position: 0% 15%;
+    background-repeat: no-repeat;
+    
+}
+
+.img_wrapper3
+{
+    min-height: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 30%;
+    border: 3px solid #47484B;
+    box-sizing: border-box;
+    float: left;
+    margin-left: 2.5%;
+    background: url(jy4.png);
+    background-repeat: repeat;
+    background-size: contain;
+    background-position: 0% 20%;
+    
+}
+.info{
+    
+    min-height: 100px;
+    background-color: #9AC232;
+    border-bottom: 1px solid #47484B  ;
+    border-top: 1px solid #47484B  ;
+    
+}
+.info h1{
+    
+    font-size: 50px;
+    text-align: center;
+    color: # 47484B;  
+}
+.info p{
+    
+    text-align: center;
+    font-size: 20px;
+}
+
+footer{
+    
+    min-height: 100px;
+    background-color: black;
+    
+    
+}
+
+
+footer p {
+    
+    color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 36px;
+    
+    
+}
+
+.social{
+    
+    float: right;
+}
+.social i{
+    
+    
+    font-size:25px;
+    color: azure;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+    
+}
+a{
+    text-decoration: none;
+}
+
